@@ -2,4 +2,4 @@
 
 policies and previews
 
-[Voocii](/voocii/)
+[Voocii](./voocii/)
