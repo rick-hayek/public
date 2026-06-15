@@ -1,8 +1,8 @@
-# aibookkeeping 服务条款 (Terms of Service)
+# Voocii 服务条款 (Terms of Service)
 
 **生效日期：2026年6月14日**
 
-欢迎使用 **aibookkeeping**（以下简称“本应用”）。本服务条款（以下简称“条款”）是您与本应用开发者（以下简称“我们”或“开发者”）之间就您使用本应用所订立的法律协议。请在下载、安装或使用本应用前仔细阅读本条款。您的下载、安装或使用行为即视为您已阅读并同意接受本条款的约束。
+欢迎使用 **账简**（以下简称“本应用”）。本服务条款（以下简称“条款”）是您与本应用开发者（以下简称“我们”或“开发者”）之间就您使用本应用所订立的法律协议。请在下载、安装或使用本应用前仔细阅读本条款。您的下载、安装或使用行为即视为您已阅读并同意接受本条款的约束。
 
 ---
 
@@ -74,8 +74,8 @@
 ## 9. 联系我们 (Contact Us)
 
 如果您对本服务条款有任何疑问，请通过以下方式与我们联系：
-- **开发者**：Rick Hayek
-- **项目仓库**：[aiaccounting](https://github.com/rick-hayek/aiaccounting)
+- **开发者**：Rick Huang
+- **支持邮件**：immaxgreat@gmail.com
 
 ---
 
@@ -83,7 +83,7 @@
 
 **Effective Date: June 14, 2026**
 
-Welcome to **aibookkeeping** (referred to as "the App"). These Terms of Service ("Terms") constitute a legally binding agreement between you and the developer of the App ("we", "us", or "the Developer") regarding your use of the App. Please read these Terms carefully before downloading, installing, or using the App. By downloading, installing, or using the App, you acknowledge that you have read, understood, and agreed to be bound by these Terms.
+Welcome to **Voocii** (referred to as "the App"). These Terms of Service ("Terms") constitute a legally binding agreement between you and the developer of the App ("we", "us", or "the Developer") regarding your use of the App. Please read these Terms carefully before downloading, installing, or using the App. By downloading, installing, or using the App, you acknowledge that you have read, understood, and agreed to be bound by these Terms.
 
 ---
 
@@ -155,5 +155,5 @@ We reserve the right to modify these Terms at any time. Updated Terms will be po
 ## 9. Contact Us
 
 If you have any questions or feedback regarding these Terms, please contact us at:
-- **Developer**: Rick Hayek
-- **Repository**: [aiaccounting](https://github.com/rick-hayek/aiaccounting)
+- **Developer**: Rick Huang
+- **Support Email**: immaxgreat@gmail.com

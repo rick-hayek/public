@@ -1,8 +1,8 @@
-# aibookkeeping 隐私政策 (Privacy Policy)
+# Voocii 隐私政策 (Privacy Policy)
 
 **生效日期：2026年6月13日**
 
-欢迎使用 **aibookkeeping**（以下简称“本应用”）。我们高度重视您的隐私与个人数据安全。本隐私政策旨在向您说明本应用如何收集、使用、存储及保护您的个人信息，以及您所拥有的权利。
+欢迎使用 **账简**（以下简称“本应用”）。我们高度重视您的隐私与个人数据安全。本隐私政策旨在向您说明本应用如何收集、使用、存储及保护您的个人信息，以及您所拥有的权利。
 
 ---
 
@@ -81,8 +81,8 @@
 
 如果您对本隐私政策或本应用的数据处理有任何疑问、建议或投诉，请通过以下方式与我们联系：
 
-- **开发者**：Rick Hayek
-- **项目仓库**：[aiaccounting](https://github.com/rick-hayek/aiaccounting)
+- **开发者**：Rick Huang
+- **支持邮件**：immaxgreat@gmail.com
 
 ---
 
@@ -90,7 +90,7 @@
 
 **Effective Date: June 13, 2026**
 
-Welcome to **aibookkeeping** (referred to as "the App"). We are fully committed to protecting your privacy and personal data. This Privacy Policy describes how we process, use, store, and protect your information, and the rights you hold over it.
+Welcome to **Voocii** (referred to as "the App"). We are fully committed to protecting your privacy and personal data. This Privacy Policy describes how we process, use, store, and protect your information, and the rights you hold over it.
 
 ---
 
@@ -156,5 +156,5 @@ Because your data is kept 100% locally, you retain complete authority:
 
 For questions regarding this policy or the privacy practices of this app, contact us at:
 
-- **Developer**: Rick Hayek
-- **Repository**: [aiaccounting](https://github.com/rick-hayek/aiaccounting)
+- **Developer**: Rick Huang
+- **Support Email**: immaxgreat@gmail.com
