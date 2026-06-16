@@ -81,7 +81,6 @@
 
 如果您对本隐私政策或本应用的数据处理有任何疑问、建议或投诉，请通过以下方式与我们联系：
 
-- **开发者**：Rick Huang
 - **支持邮件**：immaxgreat@gmail.com
 
 ---
@@ -152,9 +151,20 @@ Because your data is kept 100% locally, you retain complete authority:
 
 ---
 
-## 5. Contact Us
+## 5. Children's Privacy
+
+The App does not actively collect or solicit personal information from children in any way. As all data is stored locally, guardians can control minors' usage records by managing the device directly or clearing the app data.
+
+---
+
+## 6. Policy Updates
+
+We may update this Privacy Policy from time to time. Any changes will be posted directly on this page with an updated "Effective Date" at the top. We encourage you to review this Privacy Policy periodically to stay informed about our latest privacy practices.
+
+---
+
+## 7. Contact Us
 
 For questions regarding this policy or the privacy practices of this app, contact us at:
 
-- **Developer**: Rick Huang
 - **Support Email**: immaxgreat@gmail.com

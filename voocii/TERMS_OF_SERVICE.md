@@ -74,7 +74,7 @@
 ## 9. 联系我们 (Contact Us)
 
 如果您对本服务条款有任何疑问，请通过以下方式与我们联系：
-- **开发者**：Rick Huang
+
 - **支持邮件**：immaxgreat@gmail.com
 
 ---
@@ -155,5 +155,5 @@ We reserve the right to modify these Terms at any time. Updated Terms will be po
 ## 9. Contact Us
 
 If you have any questions or feedback regarding these Terms, please contact us at:
-- **Developer**: Rick Huang
+
 - **Support Email**: immaxgreat@gmail.com
