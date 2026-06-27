@@ -1,4 +1,4 @@
-# Coocii — AI Smart Multi-dimensional Bookkeeping
+# Voocii — AI Smart Multi-dimensional Bookkeeping
 
 <p align="center">
   <strong>🤖 AI-Driven · 📊 Multi-dimensional Analysis · 🌐 Bilingual (EN/ZH) · 📱 Cross-platform</strong>
