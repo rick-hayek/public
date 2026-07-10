@@ -7,3 +7,5 @@ policies and previews
 ### [Voocii](./voocii/)
 
 ### [Aura Bistro](./aura-bistro/)
+
+### [Personal Portal](./aura-bistro/)
