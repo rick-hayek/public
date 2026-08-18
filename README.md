@@ -10,4 +10,4 @@ policies and previews
 
 ### [Personal Portal](./personal-portal/)
 
-### [Personal Portal](./NwodKram/)
+### [NwodKram](./NwodKram/)
