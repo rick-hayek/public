@@ -55,7 +55,7 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE DEVELOP
 ### 8. Contact Information
 
 If you have any questions or feedback regarding these Terms of Service, please contact us at:
-- Email: immaxgreat@gmail.com
+- Email: support@voocii.com
 
 ---
 
@@ -116,4 +116,4 @@ If you have any questions or feedback regarding these Terms of Service, please c
 ### 8. 联系方式
 
 如果您对本服务条款有任何疑问或建议，请通过以下方式联系我们：
-- 电子邮箱：immaxgreat@gmail.com
+- 电子邮箱：support@voocii.com

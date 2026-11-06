@@ -47,7 +47,7 @@ We may update our Privacy Policy from time to time. Any updates will be posted o
 ### 7. Contact Us
 
 If you have any questions or concerns regarding this Privacy Policy, please contact us at:
-- Email: immaxgreat@gmail.com
+- Email: support@voocii.com
 
 
 ---
@@ -101,4 +101,4 @@ If you have any questions or concerns regarding this Privacy Policy, please cont
 ### 7. 联系我们
 
 如果您对本隐私政策或数据处理有任何疑问，请通过以下方式联系我们：
-- 电子邮箱：immaxgreat@gmail.com
+- 电子邮箱：support@voocii.com
